@@ -1,3 +1,4 @@
+![logo](https://github.com/Ajibola2002/Paul2002)
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&pid=Api&P=0&h=220">
